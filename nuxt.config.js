@@ -46,4 +46,7 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
+  
+  // Disable telemetry prompt when starting the dev server
+  telemetry: false,
 }
