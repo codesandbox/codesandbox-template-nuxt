@@ -1,4 +1,4 @@
-# Nuxt
+# Nuxt Starter
 
 This is a [Nuxt](https://nuxtjs.org/) project bootstrapped by [`create-nuxt-app`](https://github.com/nuxt/create-nuxt-app).
 
